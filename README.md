@@ -1,5 +1,6 @@
 # RABBIT-HITMAN-GAME
-HELLO ! # SOUMYO NATH TRIPATHY from IEM,Kolkata here.
+HELLO guys,
+# SOUMYO NATH TRIPATHY from IEM,Kolkata here.
 This a game developed by me on Pycharm Platform.
 Entirely Python has been used in this development.
 I want to thank UDEMY for helping me build this game.
@@ -13,3 +14,4 @@ Here are some of the glimpses of the game:
 ![2021-08-02 (13)](https://user-images.githubusercontent.com/85414445/127782927-0c4bc690-a844-407e-b456-494aa6f7fd1d.png)
 
 
+# Thankyou
