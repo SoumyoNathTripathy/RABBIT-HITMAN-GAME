@@ -1,7 +1,7 @@
 '''
 Created on Mar 12, 2021
 
-@author: martinyanev
+@author: Soumyo Nath Tripathy
 '''
 import math
 import pygame
